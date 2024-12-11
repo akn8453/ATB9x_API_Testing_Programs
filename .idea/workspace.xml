@@ -4,32 +4,133 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea310fe-cbe5-40c5-8168-9e6f9c79e593" name="Changes" comment="" />
+    <list default="true" id="6ea310fe-cbe5-40c5-8168-9e6f9c79e593" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting003_NoDesignPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting004_BuilderPatternDesignPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/GET/APITesting005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/GET/APITesting006_GET_BDDStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "akn8453"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/akn8453/ATB9x_API_Testing_Programs.git",
+    "accountId": "906afc6e-602e-4817-ae20-875522d0d399"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2q3bKON3NkaX0rn3r1eVaA2om27" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.APITesting001.executor": "Run",
+    "Application.APITesting002.executor": "Run",
+    "Application.APITesting003_NoDesignPattern.executor": "Run",
+    "Application.APITesting004_BuilderPatternDesignPattern.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.APITesting004_BuilderPatternDesignPattern">
+    <configuration name="APITesting001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex01_SampleCheck.APITesting001" />
+      <module name="ATB9x_API_Testing_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akshaynomulwar.ex01_SampleCheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex01_SampleCheck.APITesting002" />
+      <module name="ATB9x_API_Testing_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akshaynomulwar.ex01_SampleCheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting003_NoDesignPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex01_SampleCheck.APITesting003_NoDesignPattern" />
+      <module name="ATB9x_API_Testing_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akshaynomulwar.ex01_SampleCheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting004_BuilderPatternDesignPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex01_SampleCheck.APITesting004_BuilderPatternDesignPattern" />
+      <module name="ATB9x_API_Testing_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akshaynomulwar.ex01_SampleCheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.APITesting004_BuilderPatternDesignPattern" />
+        <item itemvalue="Application.APITesting003_NoDesignPattern" />
+        <item itemvalue="Application.APITesting002" />
+        <item itemvalue="Application.APITesting001" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
