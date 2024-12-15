@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs">
+        <classes>
+            <class name="com.akshaynomulwar.Task12Nov.TestCase_1_ValidBookingId_BDDStyle">
+            </class>
+            <class name="com.akshaynomulwar.Task12Nov.TestCase_2_InvalidBookingId_BDDStyle">
+            </class>
+            <class name="com.akshaynomulwar.Task12Nov.TestCase_3_ValidBookingId_NonBDDStyle">
+            </class>
+            <class name="com.akshaynomulwar.Task12Nov.TestCase_4_InvalidBookingId_NonBDDStyle">
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,17 +1,17 @@
 package com.akshaynomulwar.ex01_SampleCheck;
 
 public class APITesting004_BuilderPatternDesignPattern {
-    public APITesting004_BuilderPatternDesignPattern step1(){
+    public APITesting004_BuilderPatternDesignPattern step1() {
         System.out.println("Step 1");
         return this;
     }
 
-    public APITesting004_BuilderPatternDesignPattern step2(){
+    public APITesting004_BuilderPatternDesignPattern step2() {
         System.out.println("Step 2");
         return this;
     }
 
-    public APITesting004_BuilderPatternDesignPattern step3(String param1){
+    public APITesting004_BuilderPatternDesignPattern step3(String param1) {
         System.out.println("Step 3");
         return this;
     }

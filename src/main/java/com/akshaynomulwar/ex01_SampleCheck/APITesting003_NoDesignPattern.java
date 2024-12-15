@@ -1,15 +1,15 @@
 package com.akshaynomulwar.ex01_SampleCheck;
 
 public class APITesting003_NoDesignPattern {
-    public void step1(){
+    public void step1() {
         System.out.println("Step 1");
     }
 
-    public void step2(){
+    public void step2() {
         System.out.println("Step 2");
     }
 
-    public void step3(String param1){
+    public void step3(String param1) {
         System.out.println("Step 3");
     }
 

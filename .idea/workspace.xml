@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea310fe-cbe5-40c5-8168-9e6f9c79e593" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting003_NoDesignPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting004_BuilderPatternDesignPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/GET/APITesting005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/GET/APITesting006_GET_BDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/Task12Nov/TestCase_1_ValidBookingId_BDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/Task12Nov/TestCase_2_InvalidBookingId_BDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/Task12Nov/TestCase_3_ValidBookingId_NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/Task12Nov/TestCase_4_InvalidBookingId_NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/GET/APITesting007_GET_BDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/GET/APITesting008_GET_NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-NonBDD-GET.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-Task12Nov-GET.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting003_NoDesignPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting003_NoDesignPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting004_BuilderPatternDesignPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting004_BuilderPatternDesignPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/GET/APITesting006_GET_BDDStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/GET/APITesting006_GET_BDDStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/akshaynomulwar/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/akshaynomulwar/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +36,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "akn8453"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;akn8453&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/akn8453/ATB9x_API_Testing_Programs.git",
-    "accountId": "906afc6e-602e-4817-ae20-875522d0d399"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/akn8453/ATB9x_API_Testing_Programs.git&quot;,
+    &quot;accountId&quot;: &quot;906afc6e-602e-4817-ae20-875522d0d399&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2q3bKON3NkaX0rn3r1eVaA2om27" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,73 +65,112 @@
     "Application.APITesting002.executor": "Run",
     "Application.APITesting003_NoDesignPattern.executor": "Run",
     "Application.APITesting004_BuilderPatternDesignPattern.executor": "Run",
+    "Application.APITesting006_GET_BDDStyle.executor": "Run",
+    "Application.TestCase_1_Positive_BDDStyle.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.APITesting008_GET_NonBDDStyle.test_GET_NonBDDStyle_POSITIVE.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-GET.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-Task12Nov-GET.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng.xml.executor": "Run",
+    "TestNG.TestCase_1_ValidBookingId_BDDStyle.ValidBooking_id.executor": "Run",
+    "TestNG.TestCase_2_InvalidBookingId_BDDStyle.InValidBooking_id.executor": "Debug",
+    "TestNG.TestCase_3_ValidBookingId_NonBDDStyle.ValidBookingId.executor": "Run",
+    "TestNG.TestCase_3_ValidBookingId_NonBDDStyle.executor": "Run",
+    "TestNG.TestCase_4_InvalidBookingId_NonBDDStyle.ValidBookingId.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "MavenSettings"
+    "last_opened_file_path": "C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.APITesting004_BuilderPatternDesignPattern">
-    <configuration name="APITesting001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex01_SampleCheck.APITesting001" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\ATB9x_API_Testing_Programs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-Task12Nov-GET.xml">
+    <configuration name="C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-GET.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9x_API_Testing_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.akshaynomulwar.ex01_SampleCheck.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-NonBDD-GET.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="APITesting002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex01_SampleCheck.APITesting002" />
+    <configuration name="C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-Task12Nov-GET.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9x_API_Testing_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.akshaynomulwar.ex01_SampleCheck.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-Task12Nov-GET.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="APITesting003_NoDesignPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex01_SampleCheck.APITesting003_NoDesignPattern" />
+    <configuration name="TestCase_3_ValidBookingId_NonBDDStyle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9x_API_Testing_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.akshaynomulwar.ex01_SampleCheck.*" />
+          <option name="PATTERN" value="com.akshaynomulwar.Task12Nov.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.akshaynomulwar.Task12Nov" />
+      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.Task12Nov.TestCase_3_ValidBookingId_NonBDDStyle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="APITesting004_BuilderPatternDesignPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex01_SampleCheck.APITesting004_BuilderPatternDesignPattern" />
+    <configuration name="TestCase_3_ValidBookingId_NonBDDStyle.ValidBookingId" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9x_API_Testing_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.akshaynomulwar.ex01_SampleCheck.*" />
+          <option name="PATTERN" value="com.akshaynomulwar.Task12Nov.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.akshaynomulwar.Task12Nov" />
+      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.Task12Nov.TestCase_3_ValidBookingId_NonBDDStyle" />
+      <option name="METHOD_NAME" value="ValidBookingId" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase_4_InvalidBookingId_NonBDDStyle.ValidBookingId" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB9x_API_Testing_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akshaynomulwar.Task12Nov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.akshaynomulwar.Task12Nov" />
+      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.Task12Nov.TestCase_4_InvalidBookingId_NonBDDStyle" />
+      <option name="METHOD_NAME" value="ValidBookingId" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.APITesting004_BuilderPatternDesignPattern" />
-        <item itemvalue="Application.APITesting003_NoDesignPattern" />
-        <item itemvalue="Application.APITesting002" />
-        <item itemvalue="Application.APITesting001" />
+        <item itemvalue="TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-Task12Nov-GET.xml" />
+        <item itemvalue="TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-GET.xml" />
+        <item itemvalue="TestNG.TestCase_4_InvalidBookingId_NonBDDStyle.ValidBookingId" />
+        <item itemvalue="TestNG.TestCase_3_ValidBookingId_NonBDDStyle.ValidBookingId" />
+        <item itemvalue="TestNG.TestCase_3_ValidBookingId_NonBDDStyle" />
       </list>
     </recent_temporary>
   </component>
