@@ -5,21 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea310fe-cbe5-40c5-8168-9e6f9c79e593" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/Task12Nov/TestCase_1_ValidBookingId_BDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/Task12Nov/TestCase_2_InvalidBookingId_BDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/Task12Nov/TestCase_3_ValidBookingId_NonBDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/Task12Nov/TestCase_4_InvalidBookingId_NonBDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/GET/APITesting007_GET_BDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/GET/APITesting008_GET_NonBDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-NonBDD-GET.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-Task12Nov-GET.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/DELETE/APITesting_013_DELETE_NONBddStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/PATCH/APITesting_012_PATCH_NONBddStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/POST/APITesting009_Post_NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/POST/APITesting010_POST_BDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/PUT/APITesting011_PUT_NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting014_TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting015_TestNG_Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting016_TestNg_Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting017_TestNG_Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting018_TestNG_DependsOnMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting019_TestNG_Parameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting020_TestNG_Enabled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting_021_TestNG_AlwaysRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting_021_TestNG_InvocationCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-NonBDD-POST.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-group-prod.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-group-qa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-group-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-group-sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-param-chrome.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-param-firefox.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting003_NoDesignPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting003_NoDesignPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting004_BuilderPatternDesignPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex01_SampleCheck/APITesting004_BuilderPatternDesignPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/GET/APITesting006_GET_BDDStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex02_RestAssured_Basic/GET/APITesting006_GET_BDDStyle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/akshaynomulwar/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/akshaynomulwar/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +78,33 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.APITesting008_GET_NonBDDStyle.test_GET_NonBDDStyle_POSITIVE.executor": "Run",
+    "TestNG.APITesting009_Post_NonBDDStyle.test_POST_NONBDDStyle.executor": "Run",
+    "TestNG.APITesting010_POST_BDDStyle.test_POST_NonBDDStyle.executor": "Run",
+    "TestNG.APITesting011_PUT_NonBDDStyle.executor": "Run",
+    "TestNG.APITesting011_PUT_NonBDDStyle.test_put_non_bdd (1).executor": "Run",
+    "TestNG.APITesting011_PUT_NonBDDStyle.test_put_non_bdd.executor": "Run",
+    "TestNG.APITesting014_TestNG.executor": "Run",
+    "TestNG.APITesting015_TestNG_Priority.executor": "Run",
+    "TestNG.APITesting016_TestNg_Groups.executor": "Run",
+    "TestNG.APITesting017_TestNG_Groups.executor": "Run",
+    "TestNG.APITesting018_TestNG_DependsOnMethods.executor": "Run",
+    "TestNG.APITesting018_TestNg_DependsOnMethods.executor": "Run",
+    "TestNG.APITesting019_TestNG_Parameters.executor": "Run",
+    "TestNG.APITesting020_TestNG_Enabled.executor": "Run",
+    "TestNG.APITesting_012_PATCH_NONBddStyle.test_patch_non_bdd.executor": "Run",
+    "TestNG.APITesting_013_DELETE_NONBddStyle.test_patch_non_bdd.executor": "Run",
+    "TestNG.APITesting_021_TestNG_AlwaysRun.executor": "Run",
+    "TestNG.APITesting_TestNg_Groups.RegRun.executor": "Run",
+    "TestNG.APITesting_TestNg_Groups.executor": "Run",
     "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-GET.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-POST.xml.executor": "Run",
     "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-Task12Nov-GET.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-prod.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-qa.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-reg.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-sanity.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-chrome.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-firefox.xml.executor": "Run",
     "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng.xml.executor": "Run",
     "TestNG.TestCase_1_ValidBookingId_BDDStyle.ValidBooking_id.executor": "Run",
     "TestNG.TestCase_2_InvalidBookingId_BDDStyle.InValidBooking_id.executor": "Debug",
@@ -90,37 +122,17 @@
       <recent name="C:\Users\HP\IdeaProjects\ATB9x_API_Testing_Programs" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-Task12Nov-GET.xml">
-    <configuration name="C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-GET.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB9x_API_Testing_Programs" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-NonBDD-GET.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-Task12Nov-GET.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB9x_API_Testing_Programs" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-Task12Nov-GET.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCase_3_ValidBookingId_NonBDDStyle" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.APITesting_021_TestNG_InvocationCount">
+    <configuration name="APITesting020_TestNG_Enabled" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9x_API_Testing_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.akshaynomulwar.Task12Nov.*" />
+          <option name="PATTERN" value="com.akshaynomulwar.ex04_testNG_Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.akshaynomulwar.Task12Nov" />
-      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.Task12Nov.TestCase_3_ValidBookingId_NonBDDStyle" />
+      <option name="PACKAGE_NAME" value="com.akshaynomulwar.ex04_testNG_Examples" />
+      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex04_testNG_Examples.APITesting020_TestNG_Enabled" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -128,36 +140,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase_3_ValidBookingId_NonBDDStyle.ValidBookingId" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="APITesting_021_TestNG_AlwaysRun" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9x_API_Testing_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.akshaynomulwar.Task12Nov.*" />
+          <option name="PATTERN" value="com.akshaynomulwar.ex04_testNG_Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.akshaynomulwar.Task12Nov" />
-      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.Task12Nov.TestCase_3_ValidBookingId_NonBDDStyle" />
-      <option name="METHOD_NAME" value="ValidBookingId" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.akshaynomulwar.ex04_testNG_Examples" />
+      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex04_testNG_Examples.APITesting_021_TestNG_AlwaysRun" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase_4_InvalidBookingId_NonBDDStyle.ValidBookingId" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="APITesting_021_TestNG_InvocationCount" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9x_API_Testing_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.akshaynomulwar.Task12Nov.*" />
+          <option name="PATTERN" value="com.akshaynomulwar.ex04_testNG_Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.akshaynomulwar.Task12Nov" />
-      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.Task12Nov.TestCase_4_InvalidBookingId_NonBDDStyle" />
-      <option name="METHOD_NAME" value="ValidBookingId" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.akshaynomulwar.ex04_testNG_Examples" />
+      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex04_testNG_Examples.APITesting_021_TestNG_InvocationCount" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-chrome.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB9x_API_Testing_Programs" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-param-chrome.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-firefox.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB9x_API_Testing_Programs" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-param-firefox.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -166,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-Task12Nov-GET.xml" />
-        <item itemvalue="TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-GET.xml" />
-        <item itemvalue="TestNG.TestCase_4_InvalidBookingId_NonBDDStyle.ValidBookingId" />
-        <item itemvalue="TestNG.TestCase_3_ValidBookingId_NonBDDStyle.ValidBookingId" />
-        <item itemvalue="TestNG.TestCase_3_ValidBookingId_NonBDDStyle" />
+        <item itemvalue="TestNG.APITesting_021_TestNG_InvocationCount" />
+        <item itemvalue="TestNG.APITesting_021_TestNG_AlwaysRun" />
+        <item itemvalue="TestNG.APITesting020_TestNG_Enabled" />
+        <item itemvalue="TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-firefox.xml" />
+        <item itemvalue="TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-chrome.xml" />
       </list>
     </recent_temporary>
   </component>
