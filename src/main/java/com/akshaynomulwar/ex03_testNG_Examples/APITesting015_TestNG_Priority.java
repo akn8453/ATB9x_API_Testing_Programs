@@ -1,4 +1,4 @@
-package com.akshaynomulwar.ex04_testNG_Examples;
+package com.akshaynomulwar.ex03_testNG_Examples;
 
 import org.testng.annotations.Test;
 
