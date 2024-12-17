@@ -5,31 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea310fe-cbe5-40c5-8168-9e6f9c79e593" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_Assertions/APITesting_023_RestAssured_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_Assertions/APITesting_024_TestNG_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_Assertions/APITesting_025_AssertJ_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_Assertions/APITesting_026_RestAssured_TestNG_AssertJ_Assertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/APITesting_027_RestAssured_Payload_Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/APITesting_028_RestAssured_Payload_POJO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Gson/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Gson/BookingDates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting014_TestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex03_testNG_Examples/APITesting014_TestNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting015_TestNG_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex03_testNG_Examples/APITesting015_TestNG_Priority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting016_TestNg_Groups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex03_testNG_Examples/APITesting016_TestNg_Groups.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting017_TestNG_Groups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex03_testNG_Examples/APITesting017_TestNG_Groups.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting018_TestNG_DependsOnMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex03_testNG_Examples/APITesting018_TestNG_DependsOnMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting019_TestNG_Parameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex03_testNG_Examples/APITesting019_TestNG_Parameters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting020_TestNG_Enabled.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex03_testNG_Examples/APITesting020_TestNG_Enabled.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting_021_TestNG_AlwaysRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex03_testNG_Examples/APITesting_021_TestNG_AlwaysRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex04_testNG_Examples/APITesting_021_TestNG_InvocationCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex03_testNG_Examples/APITesting_022_TestNG_InvocationCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-group-prod.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-group-prod.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-group-qa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-group-qa.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-group-reg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-group-reg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-group-sanity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-group-sanity.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-param-chrome.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-param-chrome.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-param-firefox.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-param-firefox.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,71 +47,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.APITesting001.executor": "Run",
-    "Application.APITesting002.executor": "Run",
-    "Application.APITesting003_NoDesignPattern.executor": "Run",
-    "Application.APITesting004_BuilderPatternDesignPattern.executor": "Run",
-    "Application.APITesting006_GET_BDDStyle.executor": "Run",
-    "Application.TestCase_1_Positive_BDDStyle.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.APITesting008_GET_NonBDDStyle.test_GET_NonBDDStyle_POSITIVE.executor": "Run",
-    "TestNG.APITesting009_Post_NonBDDStyle.test_POST_NONBDDStyle.executor": "Run",
-    "TestNG.APITesting010_POST_BDDStyle.test_POST_NonBDDStyle.executor": "Run",
-    "TestNG.APITesting011_PUT_NonBDDStyle.executor": "Run",
-    "TestNG.APITesting011_PUT_NonBDDStyle.test_put_non_bdd (1).executor": "Run",
-    "TestNG.APITesting011_PUT_NonBDDStyle.test_put_non_bdd.executor": "Run",
-    "TestNG.APITesting014_TestNG.executor": "Run",
-    "TestNG.APITesting015_TestNG_Priority.executor": "Run",
-    "TestNG.APITesting016_TestNg_Groups.executor": "Run",
-    "TestNG.APITesting017_TestNG_Groups.executor": "Run",
-    "TestNG.APITesting018_TestNG_DependsOnMethods.executor": "Run",
-    "TestNG.APITesting018_TestNg_DependsOnMethods.executor": "Run",
-    "TestNG.APITesting019_TestNG_Parameters.executor": "Run",
-    "TestNG.APITesting020_TestNG_Enabled.executor": "Run",
-    "TestNG.APITesting_012_PATCH_NONBddStyle.test_patch_non_bdd.executor": "Run",
-    "TestNG.APITesting_013_DELETE_NONBddStyle.test_patch_non_bdd.executor": "Run",
-    "TestNG.APITesting_021_TestNG_AlwaysRun.executor": "Run",
-    "TestNG.APITesting_023_RestAssured_Assertions.test_POST.executor": "Run",
-    "TestNG.APITesting_024_TestNG_Assertions.executor": "Run",
-    "TestNG.APITesting_024_TestNG_Assertions.test_hardAssertExample.executor": "Run",
-    "TestNG.APITesting_027_RestAssured_Payload_Map.executor": "Run",
-    "TestNG.APITesting_027_RestAssured_Payload_Strings.executor": "Run",
-    "TestNG.APITesting_027_RestAssured_Payload_Strings.test_POST.executor": "Run",
-    "TestNG.APITesting_028_RestAssured_Payload_POJO.executor": "Run",
-    "TestNG.APITesting_028_RestAssured_Payload_POJO.test_POST.executor": "Run",
-    "TestNG.APITesting_TestNg_Groups.RegRun.executor": "Run",
-    "TestNG.APITesting_TestNg_Groups.executor": "Run",
-    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-GET.xml.executor": "Run",
-    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-POST.xml.executor": "Run",
-    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-Task12Nov-GET.xml.executor": "Run",
-    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-prod.xml.executor": "Run",
-    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-qa.xml.executor": "Run",
-    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-reg.xml.executor": "Run",
-    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-sanity.xml.executor": "Run",
-    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-chrome.xml.executor": "Run",
-    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-firefox.xml.executor": "Run",
-    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng.xml.executor": "Run",
-    "TestNG.TestCase_1_ValidBookingId_BDDStyle.ValidBooking_id.executor": "Run",
-    "TestNG.TestCase_2_InvalidBookingId_BDDStyle.InValidBooking_id.executor": "Debug",
-    "TestNG.TestCase_3_ValidBookingId_NonBDDStyle.ValidBookingId.executor": "Run",
-    "TestNG.TestCase_3_ValidBookingId_NonBDDStyle.executor": "Run",
-    "TestNG.TestCase_4_InvalidBookingId_NonBDDStyle.ValidBookingId.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.APITesting001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.APITesting002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.APITesting003_NoDesignPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.APITesting004_BuilderPatternDesignPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.APITesting006_GET_BDDStyle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase_1_Positive_BDDStyle.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.APITesting008_GET_NonBDDStyle.test_GET_NonBDDStyle_POSITIVE.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting009_Post_NonBDDStyle.test_POST_NONBDDStyle.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting010_POST_BDDStyle.test_POST_NonBDDStyle.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting011_PUT_NonBDDStyle.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting011_PUT_NonBDDStyle.test_put_non_bdd (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting011_PUT_NonBDDStyle.test_put_non_bdd.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting014_TestNG.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting015_TestNG_Priority.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting016_TestNg_Groups.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting017_TestNG_Groups.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting018_TestNG_DependsOnMethods.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting018_TestNg_DependsOnMethods.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting019_TestNG_Parameters.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting020_TestNG_Enabled.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting_012_PATCH_NONBddStyle.test_patch_non_bdd.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting_013_DELETE_NONBddStyle.test_patch_non_bdd.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting_021_TestNG_AlwaysRun.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting_023_RestAssured_Assertions.test_POST.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting_024_TestNG_Assertions.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting_024_TestNG_Assertions.test_hardAssertExample.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting_027_RestAssured_Payload_Map.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting_027_RestAssured_Payload_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting_027_RestAssured_Payload_Strings.test_POST.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting_028_RestAssured_Payload_POJO.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting_028_RestAssured_Payload_POJO.test_POST.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting_TestNg_Groups.RegRun.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITesting_TestNg_Groups.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-GET.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-POST.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-Task12Nov-GET.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-prod.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-qa.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-reg.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-sanity.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-chrome.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-firefox.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestCase_1_ValidBookingId_BDDStyle.ValidBooking_id.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestCase_2_InvalidBookingId_BDDStyle.InValidBooking_id.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.TestCase_3_ValidBookingId_NonBDDStyle.ValidBookingId.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestCase_3_ValidBookingId_NonBDDStyle.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestCase_4_InvalidBookingId_NonBDDStyle.ValidBookingId.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\IdeaProjects\ATB9x_API_Testing_Programs" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.APITesting_028_RestAssured_Payload_POJO">
+  <component name="RunManager" selected="TestNG.APITesting_028_RestAssured_Payload_POJO.test_POST">
     <configuration name="APITesting_023_RestAssured_Assertions.test_POST" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9x_API_Testing_Programs" />
       <extension name="coverage">
@@ -224,8 +202,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.APITesting_028_RestAssured_Payload_POJO" />
         <item itemvalue="TestNG.APITesting_028_RestAssured_Payload_POJO.test_POST" />
+        <item itemvalue="TestNG.APITesting_028_RestAssured_Payload_POJO" />
         <item itemvalue="TestNG.APITesting_027_RestAssured_Payload_Map" />
         <item itemvalue="TestNG.APITesting_027_RestAssured_Payload_Map.test_POST" />
         <item itemvalue="TestNG.APITesting_023_RestAssured_Assertions.test_POST" />
