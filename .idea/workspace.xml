@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea310fe-cbe5-40c5-8168-9e6f9c79e593" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Gson/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Gson/BookingDates.java" afterDir="false" />
+    <list default="true" id="6ea310fe-cbe5-40c5-8168-9e6f9c79e593" name="Changes" comment="Added the files of the 17th December">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Gson_Demo/APITesting_029_RestAssured_GSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Gson_Demo/APITesting_030_RestAssured_GSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Gson_Demo/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Gson_Demo/BookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Gson_Demo/Bookingdates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Jackson_api/APITesting_031_RestAssured_Jackson_API.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Jackson_api/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Jackson_api/BookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/akshaynomulwar/ex05_PayLoadManagment/Jackson_api/Bookingdates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,124 +55,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.APITesting001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.APITesting002.executor&quot;: &quot;Run&quot;,
-    &quot;Application.APITesting003_NoDesignPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.APITesting004_BuilderPatternDesignPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.APITesting006_GET_BDDStyle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestCase_1_Positive_BDDStyle.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.APITesting008_GET_NonBDDStyle.test_GET_NonBDDStyle_POSITIVE.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting009_Post_NonBDDStyle.test_POST_NONBDDStyle.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting010_POST_BDDStyle.test_POST_NonBDDStyle.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting011_PUT_NonBDDStyle.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting011_PUT_NonBDDStyle.test_put_non_bdd (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting011_PUT_NonBDDStyle.test_put_non_bdd.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting014_TestNG.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting015_TestNG_Priority.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting016_TestNg_Groups.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting017_TestNG_Groups.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting018_TestNG_DependsOnMethods.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting018_TestNg_DependsOnMethods.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting019_TestNG_Parameters.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting020_TestNG_Enabled.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting_012_PATCH_NONBddStyle.test_patch_non_bdd.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting_013_DELETE_NONBddStyle.test_patch_non_bdd.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting_021_TestNG_AlwaysRun.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting_023_RestAssured_Assertions.test_POST.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting_024_TestNG_Assertions.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting_024_TestNG_Assertions.test_hardAssertExample.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting_027_RestAssured_Payload_Map.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting_027_RestAssured_Payload_Strings.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting_027_RestAssured_Payload_Strings.test_POST.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting_028_RestAssured_Payload_POJO.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting_028_RestAssured_Payload_POJO.test_POST.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting_TestNg_Groups.RegRun.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.APITesting_TestNg_Groups.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-GET.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-POST.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-Task12Nov-GET.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-prod.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-qa.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-reg.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-sanity.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-chrome.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-firefox.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestCase_1_ValidBookingId_BDDStyle.ValidBooking_id.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestCase_2_InvalidBookingId_BDDStyle.InValidBooking_id.executor&quot;: &quot;Debug&quot;,
-    &quot;TestNG.TestCase_3_ValidBookingId_NonBDDStyle.ValidBookingId.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestCase_3_ValidBookingId_NonBDDStyle.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestCase_4_InvalidBookingId_NonBDDStyle.ValidBookingId.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.APITesting001.executor": "Run",
+    "Application.APITesting002.executor": "Run",
+    "Application.APITesting003_NoDesignPattern.executor": "Run",
+    "Application.APITesting004_BuilderPatternDesignPattern.executor": "Run",
+    "Application.APITesting006_GET_BDDStyle.executor": "Run",
+    "Application.TestCase_1_Positive_BDDStyle.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.APITesting008_GET_NonBDDStyle.test_GET_NonBDDStyle_POSITIVE.executor": "Run",
+    "TestNG.APITesting009_Post_NonBDDStyle.test_POST_NONBDDStyle.executor": "Run",
+    "TestNG.APITesting010_POST_BDDStyle.test_POST_NonBDDStyle.executor": "Run",
+    "TestNG.APITesting011_PUT_NonBDDStyle.executor": "Run",
+    "TestNG.APITesting011_PUT_NonBDDStyle.test_put_non_bdd (1).executor": "Run",
+    "TestNG.APITesting011_PUT_NonBDDStyle.test_put_non_bdd.executor": "Run",
+    "TestNG.APITesting014_TestNG.executor": "Run",
+    "TestNG.APITesting015_TestNG_Priority.executor": "Run",
+    "TestNG.APITesting016_TestNg_Groups.executor": "Run",
+    "TestNG.APITesting017_TestNG_Groups.executor": "Run",
+    "TestNG.APITesting018_TestNG_DependsOnMethods.executor": "Run",
+    "TestNG.APITesting018_TestNg_DependsOnMethods.executor": "Run",
+    "TestNG.APITesting019_TestNG_Parameters.executor": "Run",
+    "TestNG.APITesting020_TestNG_Enabled.executor": "Run",
+    "TestNG.APITesting_012_PATCH_NONBddStyle.test_patch_non_bdd.executor": "Run",
+    "TestNG.APITesting_013_DELETE_NONBddStyle.test_patch_non_bdd.executor": "Run",
+    "TestNG.APITesting_021_TestNG_AlwaysRun.executor": "Run",
+    "TestNG.APITesting_023_RestAssured_Assertions.test_POST.executor": "Run",
+    "TestNG.APITesting_024_TestNG_Assertions.executor": "Run",
+    "TestNG.APITesting_024_TestNG_Assertions.test_hardAssertExample.executor": "Run",
+    "TestNG.APITesting_027_RestAssured_Payload_Map.executor": "Run",
+    "TestNG.APITesting_027_RestAssured_Payload_Strings.executor": "Run",
+    "TestNG.APITesting_027_RestAssured_Payload_Strings.test_POST.executor": "Run",
+    "TestNG.APITesting_028_RestAssured_Payload_POJO.executor": "Run",
+    "TestNG.APITesting_028_RestAssured_Payload_POJO.test_POST.executor": "Run",
+    "TestNG.APITesting_030_RestAssured_GSON.executor": "Run",
+    "TestNG.APITesting_030_RestAssured_GSON.test_Create_Booking_Positive.executor": "Run",
+    "TestNG.APITesting_031_RestAssured_Jackson_API.test_Create_Booking_Positive.executor": "Run",
+    "TestNG.APITesting_TestNg_Groups.RegRun.executor": "Run",
+    "TestNG.APITesting_TestNg_Groups.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-GET.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-NonBDD-POST.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-Task12Nov-GET.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-prod.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-qa.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-reg.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-group-sanity.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-chrome.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng-param-firefox.xml.executor": "Run",
+    "TestNG.C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs/testng.xml.executor": "Run",
+    "TestNG.TestCase_1_ValidBookingId_BDDStyle.ValidBooking_id.executor": "Run",
+    "TestNG.TestCase_2_InvalidBookingId_BDDStyle.InValidBooking_id.executor": "Debug",
+    "TestNG.TestCase_3_ValidBookingId_NonBDDStyle.ValidBookingId.executor": "Run",
+    "TestNG.TestCase_3_ValidBookingId_NonBDDStyle.executor": "Run",
+    "TestNG.TestCase_4_InvalidBookingId_NonBDDStyle.ValidBookingId.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/IdeaProjects/ATB9x_API_Testing_Programs",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\IdeaProjects\ATB9x_API_Testing_Programs" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.APITesting_028_RestAssured_Payload_POJO.test_POST">
-    <configuration name="APITesting_023_RestAssured_Assertions.test_POST" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB9x_API_Testing_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.akshaynomulwar.ex04_Assertions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.akshaynomulwar.ex04_Assertions" />
-      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex04_Assertions.APITesting_023_RestAssured_Assertions" />
-      <option name="METHOD_NAME" value="test_POST" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="APITesting_027_RestAssured_Payload_Map" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB9x_API_Testing_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.akshaynomulwar.ex05_PayLoadManagment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.akshaynomulwar.ex05_PayLoadManagment" />
-      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex05_PayLoadManagment.APITesting_027_RestAssured_Payload_Map" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="APITesting_027_RestAssured_Payload_Map.test_POST" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB9x_API_Testing_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.akshaynomulwar.ex05_PayLoadManagment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.akshaynomulwar.ex05_PayLoadManagment" />
-      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex05_PayLoadManagment.APITesting_027_RestAssured_Payload_Map" />
-      <option name="METHOD_NAME" value="test_POST" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.APITesting_031_RestAssured_Jackson_API.test_Create_Booking_Positive">
     <configuration name="APITesting_028_RestAssured_Payload_POJO" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9x_API_Testing_Programs" />
       <extension name="coverage">
@@ -200,13 +158,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="APITesting_030_RestAssured_GSON" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB9x_API_Testing_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akshaynomulwar.ex05_PayLoadManagment.Gson_Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.akshaynomulwar.ex05_PayLoadManagment.Gson_Demo" />
+      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex05_PayLoadManagment.Gson_Demo.APITesting_030_RestAssured_GSON" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting_030_RestAssured_GSON.test_Create_Booking_Positive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB9x_API_Testing_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akshaynomulwar.ex05_PayLoadManagment.Gson_Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.akshaynomulwar.ex05_PayLoadManagment.Gson_Demo" />
+      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex05_PayLoadManagment.Gson_Demo.APITesting_030_RestAssured_GSON" />
+      <option name="METHOD_NAME" value="test_Create_Booking_Positive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting_031_RestAssured_Jackson_API.test_Create_Booking_Positive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB9x_API_Testing_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akshaynomulwar.ex05_PayLoadManagment.Jackson_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.akshaynomulwar.ex05_PayLoadManagment.Jackson_api" />
+      <option name="MAIN_CLASS_NAME" value="com.akshaynomulwar.ex05_PayLoadManagment.Jackson_api.APITesting_031_RestAssured_Jackson_API" />
+      <option name="METHOD_NAME" value="test_Create_Booking_Positive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.APITesting_031_RestAssured_Jackson_API.test_Create_Booking_Positive" />
+        <item itemvalue="TestNG.APITesting_030_RestAssured_GSON.test_Create_Booking_Positive" />
+        <item itemvalue="TestNG.APITesting_030_RestAssured_GSON" />
         <item itemvalue="TestNG.APITesting_028_RestAssured_Payload_POJO.test_POST" />
         <item itemvalue="TestNG.APITesting_028_RestAssured_Payload_POJO" />
-        <item itemvalue="TestNG.APITesting_027_RestAssured_Payload_Map" />
-        <item itemvalue="TestNG.APITesting_027_RestAssured_Payload_Map.test_POST" />
-        <item itemvalue="TestNG.APITesting_023_RestAssured_Assertions.test_POST" />
       </list>
     </recent_temporary>
   </component>
@@ -219,6 +230,19 @@
       <option name="presentableId" value="Default" />
       <updated>1733894142495</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added the files of the 17th December">
+      <option name="closed" value="true" />
+      <created>1734447072884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734447072884</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the files of the 17th December" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the files of the 17th December" />
   </component>
 </project>
